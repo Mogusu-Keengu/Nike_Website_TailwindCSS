@@ -9,11 +9,6 @@ import {Hero,
   } from './sections/index'
 import Nav from './components/Nav'
 
-
-
-
-
-
 const App = () => {
   return (
     <main className="relative">
